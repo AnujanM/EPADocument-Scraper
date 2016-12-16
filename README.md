@@ -1,2 +1,2 @@
-# EPADocument-Scrapper
-EPA Document Scrapper for Guerrilla Archiving
+# EPADocument-Scraper
+EPA Document Scraper for Guerrilla Archiving
